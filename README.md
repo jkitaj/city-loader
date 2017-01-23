@@ -17,6 +17,6 @@ and then copy prepared `city-loader.war` file to server (for example to Tomcat `
 
 - **/city-loader/location?name=city_name** get specific city location, if specific city not exist in cache or have null latitude or longitude, than application connect to Google Maps API and getting this info from there 
 
-- **/city-loader/delete?name=city_name**** delete value from cache by city name
+- **/city-loader/delete?name=city_name** delete value from cache by city name
 
 - **/city-loader/deleteAll** clear whole cache
