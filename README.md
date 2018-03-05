@@ -11,6 +11,7 @@ mvn clean package
 and then copy prepared `city-loader.war` file to server (for example to Tomcat `webapp` directory).
 
 
+
 ##REST API endpoints
 
 - **/city-loader/cities** getting all cities and location from cache ordered by city name
@@ -20,3 +21,6 @@ and then copy prepared `city-loader.war` file to server (for example to Tomcat `
 - **/city-loader/delete?name=city_name** delete value from cache by city name
 
 - **/city-loader/deleteAll** clear whole cache
+
+
+kacper test
