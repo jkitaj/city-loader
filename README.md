@@ -24,5 +24,8 @@ and then copy prepared `city-loader.war` file to server (for example to Tomcat `
 
 
 
+
 Kacper jest lepszy niz Jakub
 kacper test
+=======
+kacper to nie mistrz
