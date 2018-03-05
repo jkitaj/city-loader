@@ -23,4 +23,6 @@ and then copy prepared `city-loader.war` file to server (for example to Tomcat `
 - **/city-loader/deleteAll** clear whole cache
 
 
+
+Kacper jest lepszy niz Jakub
 kacper test
